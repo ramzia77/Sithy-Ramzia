@@ -39,13 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sithy Ramzia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithyramzia&show_icons=true&theme=radical&count_private=true&hide=prs)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sithyramzia&layout=compact&theme=radical)  
-
----
 
 ## 🔗 Featured Project
 ### 🕵️‍♂️ Phishing URL Detector
